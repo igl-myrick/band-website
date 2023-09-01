@@ -9,13 +9,13 @@ h1 {
 }
 
 .image {
-  width: 600px;
-  float: right;
+  width: 1250px;
+  float: left;
 }
 
 .date {
   width: 230px;
-  float: left;
+  float: right;
   background-color: #ffffff;
   color: #a13ea1;
 }
