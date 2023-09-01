@@ -9,19 +9,19 @@ h1 {
 }
 
 .image {
-  float: right;
   width: 600px;
+  float: right;
 }
 
 .date {
   width: 230px;
   float: left;
   background-color: #ffffff;
-  color: #800080;
+  color: #a13ea1;
 }
 
 body {
+  line-height: 24px;
   background-color: #a13ea1;
   color: #ffffff;
-  line-height: 24px;
 }
