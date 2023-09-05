@@ -11,6 +11,7 @@ h1 {
 .image {
   width: 600px;
   float: right;
+  padding: 5px;
 }
 
 .date {
