@@ -16,6 +16,8 @@ h1 {
 .date {
   width: 230px;
   float: left;
+  border: solid #ecadd9;
+  padding: 10px;
   background-color: #ffffff;
   color: #a13ea1;
 }
